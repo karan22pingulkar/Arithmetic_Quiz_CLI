@@ -1,5 +1,6 @@
 # Arithmetic_Quiz_CLI
  Your Terminal Math Trainer
+ 
     🚀 CLI Arithmetic Quiz
 Ditch the flashcards and level up your mental math game without ever leaving your terminal!
 
